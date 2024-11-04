@@ -1,1 +1,1 @@
-# Regression-hands-on-assignment-2
+# Regression and classification-hands-on-assignment-2
